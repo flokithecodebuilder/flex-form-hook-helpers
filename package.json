@@ -1,0 +1,24 @@
+{
+  "name": "flex-form-hook-helpers",
+  "version": "1.0.0",
+  "description": "Some helpers for flex-form-hook",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react",
+    "flex-form-hook",
+    "validation",
+    "sanitization",
+    "form"
+  ],
+  "author": "Ajand Mardalizad",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "dependencies": {
+    "validator": "^11.1.0"
+  }
+}
